@@ -1,0 +1,11 @@
+.nav{
+    display: flex;
+    justify-content:space-evenly;
+    background-color: wheat;
+}
+
+.link{
+    text-decoration: underline;
+    color: darkgreen;
+    cursor: pointer;
+}
