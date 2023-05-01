@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+#animeContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.animeInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+.animeLink{
+    font-size: larger;
+    color: blue;
+}
+.animeLink:hover{
+    color: darkblue;
+}
+.animeTitle{
+    width:fit-content;
+    font-size: 3rem;
+    padding-top: 1rem ;
+}
+.animeImg{
+    width: 40rem;
+}

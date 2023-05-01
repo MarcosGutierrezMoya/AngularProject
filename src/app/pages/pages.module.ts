@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 import { PagesRoutingModule } from './pages-routing.module';
+import { HttpClientModule } from '@angular/common/http';
 
 // import { AccionComponent } from './accion/accion.component';
 // import { AventurasComponent } from './aventuras/aventuras.component';
@@ -27,7 +28,8 @@ import { PagesRoutingModule } from './pages-routing.module';
   ],
   imports: [
     CommonModule,
-    PagesRoutingModule
+    PagesRoutingModule,
+    HttpClientModule
   ]
 })
 export class PagesModule {}

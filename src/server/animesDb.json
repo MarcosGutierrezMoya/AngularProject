@@ -1,12 +1,110 @@
 {
-    "accion":[],
-    "aventuras":[],
-    "humor":[],
-    "isekai":[],
-    "juegos":[],
-    "militar":[],
-    "misterio":[],
-    "peleas":[],
-    "policiacas":[],
-    "psicologicas":[]
+    "accion":[
+        {
+            "id":0,
+            "title":"91 Days",
+            "numCap":12,
+            "descripcion":"anime sobre mafiosos",
+            "imagen":"https://2.bp.blogspot.com/-j7ydQRIxb88/WSL9t1Cy3KI/AAAAAAAABaY/_hzUbeirEAkcwr3KsWdHbWv_IyFZo4D7QCLcB/s1600/91-days.jpg",
+            "link":"https://www3.animeflv.net/anime/appareranman"
+        }
+    ],
+    "aventuras":[
+        {
+            "id":0,
+            "title":"Appare-Ranman!",
+            "numCap":13,
+            "descripcion":"anime sobre carreras de coches antiguos",
+            "imagen":"https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1222a00495ccca63512a9d695f10810a.jpe",
+            "link":"https://www3.animeflv.net/anime/appareranman"
+        },
+        {
+            "id":1,
+            "title":"Blade & Soul",
+            "numCap":13,
+            "descripcion":"anime sobre peleas de espadas",
+            "imagen":"https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1613f0e0a35fd227563347adec5596ee.jpe",
+            "link":"https://www3.animeflv.net/anime/blade-soul"
+        }
+    ],
+    "humor":[
+        {
+            "id":0,
+            "title":"Amagi Brilliant Park",
+            "numCap":13,
+            "descripcion":"anime sobre la gestión de un parque de atracciones",
+            "imagen":"https://2.bp.blogspot.com/-Bl1vyPw_1i0/VJ35UsrJylI/AAAAAAAAHQU/3hWD1TJwKGw/s1600/tumblr_nh20ps5Ys11sg6in6o1_1280.png",
+            "link":"https://www3.animeflv.net/anime/amagi-brilliant-park"
+        }
+    ],
+    "isekai":[
+        {
+            "id":0,
+            "title":"Death March kara Hajimaru Isekai Kyousoukyoku",
+            "numCap":12,
+            "descripcion":"anime sobre un programador en un isekai",
+            "imagen":"https://www.justwatch.com/images/backdrop/43695493/s640/death-march-kara-hajimaru-isekai-kyousoukyoku",
+            "link":"https://www3.animeflv.net/anime/death-march-kara-hajimaru-isekai-kyousoukyoku"
+        }
+    ],
+    "juegos":[
+        {
+            "id":0,
+            "title":"Build Divide",
+            "numCap":24,
+            "descripcion":"anime de cartas",
+            "imagen":"https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2022/03/Build-Divide-FFFFFF-Anime-Reveals-Teaser-Video-Theme-Songs-April-2-Premiere.jpg",
+            "link":"https://www3.animeflv.net/anime/build-divide-code-black"
+        }
+    ],
+    "militar":[
+        {
+            "id":0,
+            "title":"86-eighty six",
+            "numCap":24,
+            "descripcion":"anime sobre la explotación humana en la guerra",
+            "imagen":"https://spacenerd.it/wp-content/uploads/2021/07/anime-86-teaser-visual-min.jpg",
+            "link":"https://www3.animeflv.net/anime/86-eighty-six"
+        }
+    ],
+    "misterio":[
+        {
+            "id":0,
+            "title":"Babylon",
+            "numCap":12,
+            "descripcion":"anime sobre la creación de una ley a favor del suicidio",
+            "imagen":"https://1.bp.blogspot.com/-pyp7r49VpD4/Xrg_W0MiTrI/AAAAAAAABKo/mftscXWyWGgYsRPQsYmqgLldekrE4tbNQCLcBGAsYHQ/w1200-h630-p-k-no-nu/babylon-1024x889.jpg",
+            "link":"https://www3.animeflv.net/anime/babylon"
+        }
+    ],
+    "peleas":[
+        {
+            "id":0,
+            "title":"Cestvs The Roman Fighter",
+            "numCap":13,
+            "descripcion":"anime de boxeo en la Roma antigua",
+            "imagen":"https://www.anmosugoi.com/wp-content/uploads/2021/03/Cestvs_-The-Roman-Fighter-wall.jpg",
+            "link":"https://www3.animeflv.net/anime/cestvs-the-roman-fighter"
+        }
+    ],
+    "policiacas":[
+        {
+            "id":0,
+            "title":"Cop Craft",
+            "numCap":12,
+            "descripcion":"anime de policias entre dos dimiensiones",
+            "imagen":"https://somoskudasai.com/wp-content/uploads/2019/06/cop-craft_7.jpg",
+            "link":"https://www3.animeflv.net/anime/cop-craft"
+        }
+    ],
+    "psicologicas":[
+        {
+            "id":0,
+            "title":"Another",
+            "numCap":12,
+            "descripcion":"anime de terror en el que hay un alumno de más",
+            "imagen":"https://images6.alphacoders.com/639/thumb-1920-639813.jpg",
+            "link":"https://www3.animeflv.net/anime/another"
+        }
+    ]
 }

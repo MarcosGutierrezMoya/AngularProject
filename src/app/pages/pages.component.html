@@ -1,8 +1,16 @@
-<ng-container *ngIf="ruta==='/accion'">
-    {{ruta}}
+<section id="animeContainer">
+    <article *ngFor="let anime of categoria" class="animeInfo" >
+        <h1 class="animeTitle" >{{anime.title}}</h1>
+        <a href={{anime.link}} class="animeLink" target="_blank" >Ver anime</a>
+        <img src={{anime.imagen}} class="animeImg" alt={{anime.title}} >
+        <p>{{anime.numCap}}</p>
+        <p>{{anime.descripcion}}</p>
+    </article>
+</section>
+<!-- <ng-container *ngIf="ruta==='accion'">
     <app-accion></app-accion>
 </ng-container>
-<ng-container *ngIf="ruta==='/aventuras'">
+<ng-container *ngIf="ruta==='aventuras'">
     {{ruta}}
     <app-aventuras></app-aventuras>
-</ng-container>
+</ng-container> -->

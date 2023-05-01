@@ -1,7 +1,12 @@
+*{
+    margin: 0;
+}
+
 .nav{
     display: flex;
     justify-content:space-evenly;
     background-color: wheat;
+    padding: 1.5rem 0;
 }
 
 .link{
