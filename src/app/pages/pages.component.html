@@ -1,10 +1,10 @@
 <section id="animeContainer">
-    <article *ngFor="let anime of categoria" class="animeInfo" >
-        <h1 class="animeTitle" >{{anime.title}}</h1>
+    <article *ngFor="let anime of anime" class="animeInfo" >
+        <h1 class="animeTitle" >{{anime.title}} <i class="fa fa-heart" style="cursor: pointer;" (click)="MakeFavourite(anime)" [ngClass]="anime.favourite? 'colorHeart':''"></i></h1>
         <a href={{anime.link}} class="animeLink" target="_blank" >Ver anime</a>
-        <img src={{anime.imagen}} class="animeImg" alt={{anime.title}} >
+        <img src={{anime.img}} class="animeImg" alt={{anime.title}} >
         <p>{{anime.numCap}}</p>
-        <p>{{anime.descripcion}}</p>
+        <p class="animeDescription" *ngFor="let texto of anime.description">{{texto}}</p>
     </article>
 </section>
 <!-- <ng-container *ngIf="ruta==='accion'">

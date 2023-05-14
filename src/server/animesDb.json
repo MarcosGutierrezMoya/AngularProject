@@ -1,110 +1,132 @@
-{
-    "accion":[
-        {
-            "id":0,
-            "title":"91 Days",
-            "numCap":12,
-            "descripcion":"anime sobre mafiosos",
-            "imagen":"https://2.bp.blogspot.com/-j7ydQRIxb88/WSL9t1Cy3KI/AAAAAAAABaY/_hzUbeirEAkcwr3KsWdHbWv_IyFZo4D7QCLcB/s1600/91-days.jpg",
-            "link":"https://www3.animeflv.net/anime/appareranman"
-        }
-    ],
-    "aventuras":[
-        {
-            "id":0,
-            "title":"Appare-Ranman!",
-            "numCap":13,
-            "descripcion":"anime sobre carreras de coches antiguos",
-            "imagen":"https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1222a00495ccca63512a9d695f10810a.jpe",
-            "link":"https://www3.animeflv.net/anime/appareranman"
-        },
-        {
-            "id":1,
-            "title":"Blade & Soul",
-            "numCap":13,
-            "descripcion":"anime sobre peleas de espadas",
-            "imagen":"https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1613f0e0a35fd227563347adec5596ee.jpe",
-            "link":"https://www3.animeflv.net/anime/blade-soul"
-        }
-    ],
-    "humor":[
-        {
-            "id":0,
-            "title":"Amagi Brilliant Park",
-            "numCap":13,
-            "descripcion":"anime sobre la gestión de un parque de atracciones",
-            "imagen":"https://2.bp.blogspot.com/-Bl1vyPw_1i0/VJ35UsrJylI/AAAAAAAAHQU/3hWD1TJwKGw/s1600/tumblr_nh20ps5Ys11sg6in6o1_1280.png",
-            "link":"https://www3.animeflv.net/anime/amagi-brilliant-park"
-        }
-    ],
-    "isekai":[
-        {
-            "id":0,
-            "title":"Death March kara Hajimaru Isekai Kyousoukyoku",
-            "numCap":12,
-            "descripcion":"anime sobre un programador en un isekai",
-            "imagen":"https://www.justwatch.com/images/backdrop/43695493/s640/death-march-kara-hajimaru-isekai-kyousoukyoku",
-            "link":"https://www3.animeflv.net/anime/death-march-kara-hajimaru-isekai-kyousoukyoku"
-        }
-    ],
-    "juegos":[
-        {
-            "id":0,
-            "title":"Build Divide",
-            "numCap":24,
-            "descripcion":"anime de cartas",
-            "imagen":"https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2022/03/Build-Divide-FFFFFF-Anime-Reveals-Teaser-Video-Theme-Songs-April-2-Premiere.jpg",
-            "link":"https://www3.animeflv.net/anime/build-divide-code-black"
-        }
-    ],
-    "militar":[
-        {
-            "id":0,
-            "title":"86-eighty six",
-            "numCap":24,
-            "descripcion":"anime sobre la explotación humana en la guerra",
-            "imagen":"https://spacenerd.it/wp-content/uploads/2021/07/anime-86-teaser-visual-min.jpg",
-            "link":"https://www3.animeflv.net/anime/86-eighty-six"
-        }
-    ],
-    "misterio":[
-        {
-            "id":0,
-            "title":"Babylon",
-            "numCap":12,
-            "descripcion":"anime sobre la creación de una ley a favor del suicidio",
-            "imagen":"https://1.bp.blogspot.com/-pyp7r49VpD4/Xrg_W0MiTrI/AAAAAAAABKo/mftscXWyWGgYsRPQsYmqgLldekrE4tbNQCLcBGAsYHQ/w1200-h630-p-k-no-nu/babylon-1024x889.jpg",
-            "link":"https://www3.animeflv.net/anime/babylon"
-        }
-    ],
-    "peleas":[
-        {
-            "id":0,
-            "title":"Cestvs The Roman Fighter",
-            "numCap":13,
-            "descripcion":"anime de boxeo en la Roma antigua",
-            "imagen":"https://www.anmosugoi.com/wp-content/uploads/2021/03/Cestvs_-The-Roman-Fighter-wall.jpg",
-            "link":"https://www3.animeflv.net/anime/cestvs-the-roman-fighter"
-        }
-    ],
-    "policiacas":[
-        {
-            "id":0,
-            "title":"Cop Craft",
-            "numCap":12,
-            "descripcion":"anime de policias entre dos dimiensiones",
-            "imagen":"https://somoskudasai.com/wp-content/uploads/2019/06/cop-craft_7.jpg",
-            "link":"https://www3.animeflv.net/anime/cop-craft"
-        }
-    ],
-    "psicologicas":[
-        {
-            "id":0,
-            "title":"Another",
-            "numCap":12,
-            "descripcion":"anime de terror en el que hay un alumno de más",
-            "imagen":"https://images6.alphacoders.com/639/thumb-1920-639813.jpg",
-            "link":"https://www3.animeflv.net/anime/another"
-        }
-    ]
-}
+[
+    {
+        "id":0,
+        "title":"91 Days",
+        "numCap":12,
+        "description":["Avilio, un hombre cuya familia fue asesinada y Nero, un hombre que algún día se convertirá en jefe de la mafia."],
+        "img":"https://2.bp.blogspot.com/-j7ydQRIxb88/WSL9t1Cy3KI/AAAAAAAABaY/_hzUbeirEAkcwr3KsWdHbWv_IyFZo4D7QCLcB/s1600/91-days.jpg",
+        "link":"https://www3.animeflv.net/anime/appareranman",
+        "favourite":false,
+        "tags":["accion","drama"]
+    },
+    {
+        "id":1,
+        "title":"Appare-Ranman!",
+        "numCap":13,
+        "description":["Al final del siglo XIX, El brillante pero socialmente inepto ingeniero Sorano Appare y el cobarde samurái Isshiki Kosame deciden competir en la Trans-America Wild Race y hacerse con su primer premio","Así, ambos enfrentarán a rivales tarados, criminales y al propio entorno en una carrera salvaje por el viejo Oeste en un coche a vapor que ellos mismos construyen."],
+        "img":"https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1222a00495ccca63512a9d695f10810a.jpe",
+        "link":"https://www3.animeflv.net/anime/appareranman",
+        "favourite":false,
+        "tags":["aventuras","humor"]
+    },
+    {
+        "id":2,
+        "title":"Blade & Soul",
+        "numCap":13,
+        "description":["anime proveniente de un videojuego sobre artes marciales y magia"],
+        "img":"https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/1613f0e0a35fd227563347adec5596ee.jpe",
+        "link":"https://www3.animeflv.net/anime/blade-soul",
+        "favourite":false,
+        "tags":["aventuras"]
+    },
+    {
+        "id":3,
+        "title":"Amagi Brilliant Park",
+        "numCap":13,
+        "description":["anime sobre la gestión de un parque de atracciones"],
+        "img":"https://2.bp.blogspot.com/-Bl1vyPw_1i0/VJ35UsrJylI/AAAAAAAAHQU/3hWD1TJwKGw/s1600/tumblr_nh20ps5Ys11sg6in6o1_1280.png",
+        "link":"https://www3.animeflv.net/anime/amagi-brilliant-park",
+        "favourite":false,
+        "tags":["humor"]
+    },
+    {
+        "id":4,
+        "title":"Death March kara Hajimaru Isekai Kyousoukyoku",
+        "numCap":12,
+        "description":["anime sobre un programador en un isekai"],
+        "img":"https://www.justwatch.com/images/backdrop/43695493/s640/death-march-kara-hajimaru-isekai-kyousoukyoku",
+        "link":"https://www3.animeflv.net/anime/death-march-kara-hajimaru-isekai-kyousoukyoku",
+        "favourite":false,
+        "tags":["isekai"]
+    },
+    {
+        "id":5,
+        "title":"Build Divide",
+        "numCap":24,
+        "description":["anime de cartas"],
+        "img":"https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2022/03/Build-Divide-FFFFFF-Anime-Reveals-Teaser-Video-Theme-Songs-April-2-Premiere.jpg",
+        "link":"https://www3.animeflv.net/anime/build-divide-code-black",
+        "favourite":false,
+        "tags":["juegos"]
+    },
+    {
+        "id":6,
+        "title":"86 / eighty six",
+        "numCap":24,
+        "description":["anime sobre la explotación humana en la guerra"],
+        "img":"https://spacenerd.it/wp-content/uploads/2021/07/anime-86-teaser-visual-min.jpg",
+        "link":"https://www3.animeflv.net/anime/86-eighty-six",
+        "favourite":false,
+        "tags":["militar"]
+    },
+    {
+        "id":7,
+        "title":"Babylon",
+        "numCap":12,
+        "description":["anime sobre la creación de una ley a favor del suicidio"],
+        "img":"https://1.bp.blogspot.com/-pyp7r49VpD4/Xrg_W0MiTrI/AAAAAAAABKo/mftscXWyWGgYsRPQsYmqgLldekrE4tbNQCLcBGAsYHQ/w1200-h630-p-k-no-nu/babylon-1024x889.jpg",
+        "link":"https://www3.animeflv.net/anime/babylon",
+        "favourite":false,
+        "tags":["misterio"]
+    },
+    {
+        "id":8,
+        "title":"Cestvs The Roman Fighter",
+        "numCap":13,
+        "description":["anime de boxeo en la Roma antigua"],
+        "img":"https://www.anmosugoi.com/wp-content/uploads/2021/03/Cestvs_-The-Roman-Fighter-wall.jpg",
+        "link":"https://www3.animeflv.net/anime/cestvs-the-roman-fighter",
+        "favourite":false,
+        "tags":["peleas"]
+    },
+    {
+        "id":9,
+        "title":"Cop Craft",
+        "numCap":12,
+        "description":["anime de policias entre dos dimiensiones"],
+        "img":"https://somoskudasai.com/wp-content/uploads/2019/06/cop-craft_7.jpg",
+        "link":"https://www3.animeflv.net/anime/cop-craft",
+        "favourite":false,
+        "tags":["policiacas"]
+    },
+    {
+        "id":10,
+        "title":"Another",
+        "numCap":12,
+        "description":["anime de terror en el que hay un alumno de más"],
+        "img":"https://images6.alphacoders.com/639/thumb-1920-639813.jpg",
+        "link":"https://www3.animeflv.net/anime/another",
+        "favourite":false,
+        "tags":["psicologicas"]
+    },
+    {
+        "id":12,
+        "title":"Akuma no Riddle",
+        "numCap":12,
+        "description":["La historia se desarrolla en un internado privado solo para chicas. Todo seria normal en dicha institución, de no ser porque todas los estudiantes de la clase de 10° grado tienen como meta tomar la vida de Ichinose Hare.","Tokaku Azuma es una estudiante recién transferida, quien también es una asesina con el objetivo de encargarse de Hare, pero poco a poco comienza a cambiar de objetivo."],
+        "img":"https://pm1.narvii.com/6208/d1bd2e34b6936680c2f76cf77769cbcad703519d_hq.jpg",
+        "link":"https://www3.animeflv.net/anime/akuma-no-riddle",
+        "favourite":false,
+        "tags":["accion","misterio"]
+    },
+    {
+        "id":11,
+        "title":"Akanesasu shoujo",
+        "numCap":12,
+        "description":["Unas niñas que viven en una ciudad provincial realizan cierto ritual en el club de radio. Es un club que Asuka Tsuchimiya comenzó con amigas en su secundaria.","Ese ritual fue considerado solo una leyenda urbana. Sin embargo, con varias condiciones casualmente cayendo en su lugar, deja de ser todo diversión y juegos…"],
+        "img":"https://www.lavanguardia.com/peliculas-series/images/serie/backdrop/2018/10/w1280/v2tcrexw7naw4PASomwoHJRGEdS.jpg",
+        "link":"https://www3.animeflv.net/anime/akanesasu-shoujo",
+        "favourite":false,
+        "tags":["accion","peleas"]
+    }
+]
